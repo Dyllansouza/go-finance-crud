@@ -1,2 +1,2 @@
 # go-finance-crud
-First go project developing an personal finance crud
+First go project developing a personal finance crud
